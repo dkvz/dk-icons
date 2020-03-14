@@ -13,3 +13,6 @@ In Inkscape:
 - Document settings, set dimensions, set units to px
 - Set the viewBox to 512x512 too
 - Create guides in the middle of the documents; It's very important to start there
+
+## Colors
+Background: #ffcc00
